@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorruptFileGenerator", "CorruptFileGenerator\CorruptFileGenerator.csproj", "{C9487762-E00A-465C-9648-2C1F54514492}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9487762-E00A-465C-9648-2C1F54514492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9487762-E00A-465C-9648-2C1F54514492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9487762-E00A-465C-9648-2C1F54514492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9487762-E00A-465C-9648-2C1F54514492}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7492F95C-0768-44A2-AADA-4721CD0C7F9E}
+	EndGlobalSection
+EndGlobal

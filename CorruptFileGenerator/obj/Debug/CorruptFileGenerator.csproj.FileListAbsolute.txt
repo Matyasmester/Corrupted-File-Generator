@@ -1,0 +1,10 @@
+C:\Cs Projects\CorruptFileGenerator\CorruptFileGenerator\bin\Debug\CorruptFileGenerator.exe.config
+C:\Cs Projects\CorruptFileGenerator\CorruptFileGenerator\bin\Debug\CorruptFileGenerator.exe
+C:\Cs Projects\CorruptFileGenerator\CorruptFileGenerator\bin\Debug\CorruptFileGenerator.pdb
+C:\Cs Projects\CorruptFileGenerator\CorruptFileGenerator\obj\Debug\CorruptFileGenerator.csprojAssemblyReference.cache
+C:\Cs Projects\CorruptFileGenerator\CorruptFileGenerator\obj\Debug\CorruptFileGenerator.MainForm.resources
+C:\Cs Projects\CorruptFileGenerator\CorruptFileGenerator\obj\Debug\CorruptFileGenerator.Properties.Resources.resources
+C:\Cs Projects\CorruptFileGenerator\CorruptFileGenerator\obj\Debug\CorruptFileGenerator.csproj.GenerateResource.cache
+C:\Cs Projects\CorruptFileGenerator\CorruptFileGenerator\obj\Debug\CorruptFileGenerator.csproj.CoreCompileInputs.cache
+C:\Cs Projects\CorruptFileGenerator\CorruptFileGenerator\obj\Debug\CorruptFileGenerator.exe
+C:\Cs Projects\CorruptFileGenerator\CorruptFileGenerator\obj\Debug\CorruptFileGenerator.pdb
